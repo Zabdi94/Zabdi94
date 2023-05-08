@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Zakariye</h1>
-<h3 align="center">A passionate frontend developer from Minnesota</h3>
+<h3 align="center">A passionate Software Engineer | Full Stack Developer from Minnesota</h3>
 
 - 🔭 I’m currently working on **Omi live Shopping**
 
-- 🌱 I’m currently learning **C# & Vue**
+- 🌱 I’m currently learning **TypeScript & Vue**
 
 - 💬 Ask me about **react, redux/saga**
 
